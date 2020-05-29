@@ -1,0 +1,2 @@
+F:\work\Project\JUNWEI\JW\JW_SYSTEM\魔方系列\SW\C#\Source\trunk\WinFormDemo\obj\Debug\WinFormDemo.exe
+F:\work\Project\JUNWEI\JW\JW_SYSTEM\魔方系列\SW\C#\Source\trunk\WinFormDemo\obj\Debug\WinFormDemo.pdb

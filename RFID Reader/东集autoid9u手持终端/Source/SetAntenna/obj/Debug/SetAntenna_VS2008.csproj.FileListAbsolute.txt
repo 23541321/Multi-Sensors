@@ -1,0 +1,2 @@
+F:\work\Project\SVN\JW_SYSTEM\魔方系列\SW\Source\C#\Source\trunk\SetAntenna\obj\Debug\SetAntenna.exe
+F:\work\Project\SVN\JW_SYSTEM\魔方系列\SW\Source\C#\Source\trunk\SetAntenna\obj\Debug\SetAntenna.pdb

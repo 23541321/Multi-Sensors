@@ -1,0 +1,6 @@
+F:\work\Project\SVN\JW_SYSTEM\魔方系列\SW\Source\C#\Source\trunk\Inventory\obj\Debug\Inventory.exe
+F:\work\Project\SVN\JW_SYSTEM\魔方系列\SW\Source\C#\Source\trunk\Inventory\obj\Debug\Inventory.pdb
+F:\work\Project\SVN\JW_SYSTEM\魔方系列\SW\Source\C#\Source\trunk\Inventory\bin\Debug\Inventory.exe
+F:\work\Project\SVN\JW_SYSTEM\魔方系列\SW\Source\C#\Source\trunk\Inventory\bin\Debug\Inventory.pdb
+F:\work\Project\SVN\JW_SYSTEM\魔方系列\SW\Source\C#\Source\trunk\Inventory\bin\Debug\JW.UHF.xml
+F:\work\Project\SVN\JW_SYSTEM\魔方系列\SW\Source\C#\Source\trunk\Inventory\obj\Debug\ResolveAssemblyReference.cache

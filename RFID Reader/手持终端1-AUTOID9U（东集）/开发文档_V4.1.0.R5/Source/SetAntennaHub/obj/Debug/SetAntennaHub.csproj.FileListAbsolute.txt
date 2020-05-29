@@ -1,0 +1,7 @@
+F:\work\Project\SVN\JW_SYSTEM\魔方系列\SW\Source\C#\Source\trunk\SetAntennaHub\bin\Debug\SetAntennaHub.exe
+F:\work\Project\SVN\JW_SYSTEM\魔方系列\SW\Source\C#\Source\trunk\SetAntennaHub\bin\Debug\SetAntennaHub.pdb
+F:\work\Project\SVN\JW_SYSTEM\魔方系列\SW\Source\C#\Source\trunk\SetAntennaHub\bin\Debug\JW.UHF.xml
+F:\work\Project\SVN\JW_SYSTEM\魔方系列\SW\Source\C#\Source\trunk\SetAntennaHub\obj\Debug\SetAntennaHub.csprojResolveAssemblyReference.cache
+F:\work\Project\SVN\JW_SYSTEM\魔方系列\SW\Source\C#\Source\trunk\SetAntennaHub\obj\Debug\SetAntennaHub.exe
+F:\work\Project\SVN\JW_SYSTEM\魔方系列\SW\Source\C#\Source\trunk\SetAntennaHub\obj\Debug\SetAntennaHub.pdb
+F:\work\Project\SVN\JW_SYSTEM\魔方系列\SW\Source\C#\Source\trunk\SetAntennaHub\bin\Debug\JW.UHF.dll

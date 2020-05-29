@@ -1,0 +1,7 @@
+F:\work\Project\SVN\JW_SYSTEM\魔方系列\SW\Source\C#\Source\trunk\TcpDiscovery\bin\Debug\TcpDiscovery.exe
+F:\work\Project\SVN\JW_SYSTEM\魔方系列\SW\Source\C#\Source\trunk\TcpDiscovery\bin\Debug\TcpDiscovery.pdb
+F:\work\Project\SVN\JW_SYSTEM\魔方系列\SW\Source\C#\Source\trunk\TcpDiscovery\bin\Debug\JW.UHF.dll
+F:\work\Project\SVN\JW_SYSTEM\魔方系列\SW\Source\C#\Source\trunk\TcpDiscovery\bin\Debug\JW.UHF.xml
+F:\work\Project\SVN\JW_SYSTEM\魔方系列\SW\Source\C#\Source\trunk\TcpDiscovery\obj\Debug\TcpDiscovery.csprojResolveAssemblyReference.cache
+F:\work\Project\SVN\JW_SYSTEM\魔方系列\SW\Source\C#\Source\trunk\TcpDiscovery\obj\Debug\TcpDiscovery.exe
+F:\work\Project\SVN\JW_SYSTEM\魔方系列\SW\Source\C#\Source\trunk\TcpDiscovery\obj\Debug\TcpDiscovery.pdb

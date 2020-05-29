@@ -1,0 +1,14 @@
+E:\work\Project\JUNWEI\C#\内部\PC\指令模式\SOURCE\VBFormDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\work\Project\JUNWEI\C#\内部\PC\指令模式\SOURCE\VBFormDemo\obj\x86\Debug\WindowsApplication1.MainForm.resources
+E:\work\Project\JUNWEI\C#\内部\PC\指令模式\SOURCE\VBFormDemo\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\work\Project\JUNWEI\C#\内部\PC\指令模式\SOURCE\VBFormDemo\obj\x86\Debug\VBFormSample.vbproj.GenerateResource.Cache
+E:\work\Project\JUNWEI\C#\内部\PC\指令模式\SOURCE\VBFormDemo\obj\x86\Debug\WindowsApplication1.exe
+E:\work\Project\JUNWEI\C#\内部\PC\指令模式\SOURCE\VBFormDemo\obj\x86\Debug\WindowsApplication1.xml
+E:\work\Project\JUNWEI\C#\内部\PC\指令模式\SOURCE\VBFormDemo\obj\x86\Debug\WindowsApplication1.pdb
+F:\work\Project\JUNWEI\C#\内部\PC\指令模式\JW\Source\trunk\VBFormDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\work\Project\JUNWEI\C#\内部\PC\指令模式\JW\Source\trunk\VBFormDemo\obj\x86\Debug\WindowsApplication1.MainForm.resources
+F:\work\Project\JUNWEI\C#\内部\PC\指令模式\JW\Source\trunk\VBFormDemo\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\work\Project\JUNWEI\C#\内部\PC\指令模式\JW\Source\trunk\VBFormDemo\obj\x86\Debug\VBFormSample.vbproj.GenerateResource.Cache
+F:\work\Project\JUNWEI\C#\内部\PC\指令模式\JW\Source\trunk\VBFormDemo\obj\x86\Debug\WindowsApplication1.exe
+F:\work\Project\JUNWEI\C#\内部\PC\指令模式\JW\Source\trunk\VBFormDemo\obj\x86\Debug\WindowsApplication1.xml
+F:\work\Project\JUNWEI\C#\内部\PC\指令模式\JW\Source\trunk\VBFormDemo\obj\x86\Debug\WindowsApplication1.pdb
